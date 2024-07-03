@@ -622,10 +622,10 @@ ul li a:hover{
 
 }
 .grid1{
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
     width: 200px;
     height: 200px;
-    border: 1px solid ;
+    border: 0px ;
     /* padding: 60px; */
 
 }
@@ -641,6 +641,7 @@ ul li a:hover{
     height: 15%;
     align-items: center;
     justify-items: center;
+    color:#A0A0A0;
 }
 .social > div{
     display: inline;
@@ -651,6 +652,7 @@ ul li a:hover{
 .username{
     padding-top: 6px;
     font-size: large;
+    color: #3858ad;
 }
 svg{
     padding-right: 2px;
